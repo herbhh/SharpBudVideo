@@ -1,2 +1,3 @@
-# SharpBudVideo
-SharpBudVideo
+# SharpBudVideo (尖尖角视频）
+# 主要用途：短视频分享 
+# 功能：短视频拍摄上传、点赞、评论、关注他人、推荐视频列表、关注视频列表、个人信息
